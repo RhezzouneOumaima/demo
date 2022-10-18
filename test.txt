@@ -1,4 +1,5 @@
 Bonjour le monde !
+git a été créé par Linus Torvalds en 2005
 J'utilise git !
 oumaima
 git est un logiciel de gestion de versions décentralisé.
